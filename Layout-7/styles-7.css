@@ -152,6 +152,9 @@
 .footer-2 #div-1 > #div-1-1 {
   width: 33%;
 }
+.footer-2 #div-1 > #div-1-1 > div .footer-img {
+  width: 100%;
+}
 @media all and (max-width: 786px) {
   .footer-2 #div-1 > #div-1-1 {
     width: 100%;

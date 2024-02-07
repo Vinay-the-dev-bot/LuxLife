@@ -155,6 +155,11 @@
 
         >#div-1-1 {
             width: 33%;
+            >div{
+                .footer-img{
+                    width: 100%;
+                }
+            }
 
             @media all and (max-width:$mobile) {
                 width: 100%;
